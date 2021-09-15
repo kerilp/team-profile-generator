@@ -6,6 +6,8 @@ A Node.js command-line application that allows users to input employee informati
 
 Video walkthrough available [here](https://drive.google.com/file/d/1QgZL-SmoLZK6QkY7LRa-QIChU_2KwpaH/view).
 
+[!Screenshot of Sample](./assets/images/screenshot.png)
+
 ## Contact
 
 With questions you can contact Keri Price here:
